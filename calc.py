@@ -8,5 +8,6 @@ def sub(x, y):
 def mult(x, y): 
     return x * y
 
+#tratamento da divisao por 0
 def div(x, y):
     return x / y
